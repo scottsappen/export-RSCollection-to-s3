@@ -35,7 +35,7 @@ Follow the below steps to export your data from Rockset. These steps involve usi
 
 ## Step 1: Download the Script
 
-First you’ll want to download the script we have already created to assist in exporting collection data, titled `export_RSCollection_to_AWSS3.py` , which is available in GitHub [here](https://github.com/rocksetlabs/export-collection-to-s3/blob/main/export_RSCollection_to_AWSS3.py).
+First you’ll want to download the script we have already created to assist in exporting collection data, titled `export_RSCollection_to_AWSS3.py` , which is available in GitHub [here](https://github.com/scottsappen/export-RSCollection-to-s3/blob/main/export_RSCollection_to_AWSS3.py).
 
 ## Step 2: Execute the Script
 
